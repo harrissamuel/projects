@@ -29,7 +29,7 @@ Check it out [here](https://harrissamuel.github.io/projects/costs_of_climate_cha
 
 This project, completed with Python for personal use, used BeautifulSoup and Selenium to scrape information about paintings from a website. The goal of this project was to loop through each painting on the HTML website and extract information like the title, price, height, and width. Selenium was used to interact with the website and BeautifulSoup to parse through the HTML code. The data was gathered and put into a CSV file for further use.
 
-Check out my GitHub page here for more information. 
+Check out my GitHub page [here](https://github.com/harrissamuel/projects/tree/main/painting_web_scraper) for more information. 
 
 ## Experience:
 ### GW Data Science for Sustainable Development Hub Researcher (January 2023 - Present)
