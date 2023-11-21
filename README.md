@@ -16,7 +16,7 @@ This project contains many interactive visualizations. Check it out [here](https
 ### Fantasy Football Regression Model (Python Project)
 This project, completed with Python for personal use, used linear regression with K-fold cross-validation to predict fantasy football points per game for wide receivers and running backs. The goal of this model was to predict fantasy points using predetermined features and find overrated and underrated players based on the model. K-fold cross-validation was used to avoid overfitting the model. The model produced high correlation values with the predicted values versus the real values indicating an effective model. I used the Sklearn package for the regression model and the K fold splitting of the data into training and test sets. 
 
-Check it out [here]([https://colab.research.google.com/drive/1Fc_o3Wp2hjEGVFeoIop37I2Hv9aRtFX4?usp=sharing](https://colab.research.google.com/drive/1OW38iHPIoin9pkfNakW6nsdlGeKgCqGy?usp=sharing)).
+Check it out [here](https://colab.research.google.com/drive/1OW38iHPIoin9pkfNakW6nsdlGeKgCqGy?usp=sharing).
 
 ### Costs of Climate Change (R Project)
 
