@@ -40,3 +40,6 @@ using the Building Energy Benchmarking data set from Open Data DC
 ### GW Hatchet Student Newspaper  Metro Reporter (October 2021 - December 2021)
 - Interviewed GW professor Frank Sesno about 30 years of experience with GW Alumnus Colin Powell
 - Reported on construction noise complaints from 10+ GW students at District and Lafayette Halls
+
+## Additional Information
+
