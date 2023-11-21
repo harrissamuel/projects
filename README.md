@@ -8,7 +8,7 @@
 
 ## Projects:
 
-#### Baseball Over the Last 40 Years (R Project)
+### Baseball Over the Last 40 Years (R Project)
 
 ### Fantasy Football Regression Model (Python Project)
 
