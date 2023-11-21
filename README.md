@@ -43,3 +43,11 @@ using the Building Energy Benchmarking data set from Open Data DC
 
 ## Additional Information
 
+#### [LinkedIn](www.linkedin.com/in/samuel-harris-sh)
+
+#### [Website](https://www.samsharris.org/about/)
+
+
+
+
+
