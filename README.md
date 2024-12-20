@@ -8,7 +8,7 @@
 
 ## Projects:
 
-#### World Disasters in Context (Capstone Python Project)
+### World Disasters in Context (Capstone Python Project)
 
 This project, completed with Python for my Data Sciecne Capstone class, combines world disaster event data with World Bank country indicator data to place historical disasters events in a given country's developmental context. Understanding historical disasters by their type, impact, and development level is crucial to gain information about how different disasters affect different countries. From this information, officials can set goals for disaster management and adequately assess disaster risk comparatively by country. The goal of this analysis is to mitigate disasters' impact by increasing awareness about disasters and providing relevant resources to disaster management officials.
 
