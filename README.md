@@ -8,6 +8,13 @@
 
 ## Projects:
 
+#### Capstone: World Disasters in Context
+
+This project, completed with Python for my Data Sciecne Capstone class, combines world disaster event data with World Bank country indicator data to place historical disasters events in a given country's developmental context. Understanding historical disasters by their type, impact, and development level is crucial to gain information about how different disasters affect different countries. From this information, officials can set goals for disaster management and adequately assess disaster risk comparatively by country. The goal of this analysis is to mitigate disasters' impact by increasing awareness about disasters and providing relevant resources to disaster management officials.
+
+Check it out [here](https://disastersanalysis.streamlit.app/).
+
+
 ### Baseball Over the Last 40 Years (R Project)
 This project, completed with R for my Data Visualization class, looks at how and why important metrics in baseball like hits, home runs, and strikeouts have changed over the last 40 years. The project begins by using a correlation chart and scatter plots to show that strikeouts and home runs have increased over time while hits have decreased. To answer the question of why strikeouts and home runs have increased, I performed a regression analysis to first show that strikeouts and home runs are positively correlated. I then performed another regression analysis showing that home runs are more of a predictor for runs than hits. Scatter plots for home runs vs. runs and hits vs. runs confirmed this relationship. By analyzing the relationship between variables like hits, home runs, strikeouts, and runs, I was able to discern that teams have prioritized home runs over hits and strikeouts to score more runs. 
 
