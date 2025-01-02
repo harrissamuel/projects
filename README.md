@@ -4,7 +4,7 @@
 - BS Data Science and Mathematics at George Washington University (May 2025)
 
 ## Technical Skills: 
-- Python, R, SQL
+- Python, R, SQL, NoSQL, SAS, Power BI
 
 ## Projects:
 
