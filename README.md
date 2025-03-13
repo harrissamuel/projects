@@ -12,7 +12,7 @@
 
 This project, completed with Python for my Data Sciecne Capstone class, combines world disaster event data with World Bank country indicator data to place historical disasters events in a given country's developmental context. Understanding historical disasters by their type, impact, and development level is crucial to gain information about how different disasters affect different countries. From this information, officials can set goals for disaster management and adequately assess disaster risk comparatively by country. The goal of this analysis is to mitigate disasters' impact by increasing awareness about disasters and providing relevant resources to disaster management officials.
 
-Check it out [here](https://disastersanalysis.streamlit.app/). For the python code and report, check out my Git Repo [here](https://github.com/harrissamuel/24Spr_-S-Harris-_-disasters-/tree/main/Sample_Capstone)).
+Check out my streamlit app [here](https://disastersanalysis.streamlit.app/). For the python code and report, check out my Git Repo [here](https://github.com/harrissamuel/24Spr_-S-Harris-_-disasters-/tree/main/Sample_Capstone).
 
 
 ### Baseball Over the Last 40 Years (R Project)
