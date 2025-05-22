@@ -1,7 +1,7 @@
 # Sam Harris
 
 ## Education: 
-- BS in Data Science and Mathematics at George Washington University (May 2025)
+- BS in Data Science and Mathematics, Minor in Statistics at George Washington University (May 2025)
 
 ## Technical Skills: 
 - Python, R, SQL, NoSQL, SAS, Power BI
@@ -57,8 +57,3 @@ using the Building Energy Benchmarking data set from Open Data DC
 #### [LinkedIn](https://www.linkedin.com/in/samuel-harris-sh/)
 
 #### [Website](https://www.samsharris.org/about/)
-
-
-
-
-
