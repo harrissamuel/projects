@@ -1,7 +1,7 @@
 # Sam Harris
 
 ## Education: 
-- BS in Data Science and Mathematics, Minor in Statistics at George Washington University (May 2025)
+- BS in Data Science and Mathematics, Minor in Statistics at the George Washington University (May 2025)
 
 ## Technical Skills: 
 - Python, R, SQL, NoSQL, SAS, Power BI
