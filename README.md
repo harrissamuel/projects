@@ -43,7 +43,7 @@ Check out my GitHub page [here](https://github.com/harrissamuel/projects/tree/ma
 - Analyzed safety incident data from frontline rail workers leveraging Power BI to create visualizations for the monthly Chief Safety Officer report and briefing. Produced safety metrics by department and type of incident
 - Performed two data pulls isolating safety incidents of interest for legal and marketing purposes. Conducted an additional data pull to formulate an infographic design promoting the diversity of Amtrak's safety reporting culture
 
-### GW Data Science for Sustainable Development Hub: Research Team Head (January 2023 - Present)
+### GW Data Science for Sustainable Development Hub: Research Team Head (January 2023 - May 2025)
 - Research member of GW's Data Science for Sustainable Development (DSSD) chapter. DSSD provides pro bono data science services to mission-driven organizations operating in the development and humanitarian sphere
 - Conducted research with three colleagues for an ongoing project to develop localized ecolabels in DC
 - Examined energy and water trends and developed data visualizations for hundreds of buildings in DC by
