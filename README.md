@@ -4,7 +4,7 @@
 - BS in Data Science and Mathematics, Minor in Statistics at the George Washington University (May 2025)
 
 ## Technical Skills: 
-- Python, R, SQL, NoSQL, SAS, Power BI
+- Python, R, SQL, NoSQL, SAS, Power BI, Tableau
 
 ## Projects:
 
