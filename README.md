@@ -39,6 +39,8 @@ This project, completed with Python for personal use, used BeautifulSoup and Sel
 Check out my GitHub page [here](https://github.com/harrissamuel/projects/tree/main/painting_web_scraper) for more information. 
 
 ## Experience:
+### Amtrak: Business Improvement Analyst (Oct 2025 - Present)
+
 ### Amtrak: Voluntary Safety Reporting Intern (May 2024 - August 2024)
 - Analyzed safety incident data from frontline rail workers leveraging Power BI to create visualizations for the monthly Chief Safety Officer report and briefing. Produced safety metrics by department and type of incident
 - Performed two data pulls isolating safety incidents of interest for legal and marketing purposes. Conducted an additional data pull to formulate an infographic design promoting the diversity of Amtrak's safety reporting culture
