@@ -40,7 +40,7 @@ Check out my GitHub page [here](https://github.com/harrissamuel/projects/tree/ma
 
 ## Experience:
 ### Amtrak: Business Improvement Analyst (Oct 2025 - Present)
-• Supporting supply chain and procurement through data analysis, visualization, and reporting.• Supporting supply chain and procurement through data analysis, visualization, and reporting.
+- Supporting supply chain and procurement through data analysis, visualization, and reporting.
 
 ### Amtrak: Voluntary Safety Reporting Intern (May 2024 - August 2024)
 - Analyzed safety incident data from frontline rail workers leveraging Power BI to create visualizations for the monthly Chief Safety Officer report and briefing. Produced safety metrics by department and type of incident
