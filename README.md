@@ -40,6 +40,7 @@ Check out my GitHub page [here](https://github.com/harrissamuel/projects/tree/ma
 
 ## Experience:
 ### Amtrak: Business Improvement Analyst (Oct 2025 - Present)
+• Supporting supply chain and procurement through data analysis, visualization, and reporting.• Supporting supply chain and procurement through data analysis, visualization, and reporting.
 
 ### Amtrak: Voluntary Safety Reporting Intern (May 2024 - August 2024)
 - Analyzed safety incident data from frontline rail workers leveraging Power BI to create visualizations for the monthly Chief Safety Officer report and briefing. Produced safety metrics by department and type of incident
@@ -50,6 +51,7 @@ Check out my GitHub page [here](https://github.com/harrissamuel/projects/tree/ma
 - Conducted research with three colleagues for an ongoing project to develop localized ecolabels in DC
 - Examined energy and water trends and developed data visualizations for hundreds of buildings in DC by
 using the Building Energy Benchmarking data set from Open Data DC
+
 ### GW Hatchet Student Newspaper:  Metro Reporter (October 2021 - December 2021)
 - Interviewed GW professor Frank Sesno about 30 years of experience with GW Alumnus Colin Powell
 - Reported on construction noise complaints from 10+ GW students at District and Lafayette Halls
